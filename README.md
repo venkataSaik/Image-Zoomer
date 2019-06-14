@@ -1,7 +1,7 @@
 # Image-Zoomer
 This project is useful to zoom the image in angular6 and above.
 
-How To Use
+# How To Use
 
 1] Download the project
 
@@ -9,7 +9,7 @@ How To Use
 
 npm install
 
-Start the server
+# Start the server
 
 ng serve
 
